@@ -67,6 +67,7 @@ public class Fruta {
 	//se esta heredando
 	//Sobreescritura de metodos heredados
 	//Source -> Generate toString()...
+	//Source -> Generate toString()...
 	@Override
 	public String toString() {
 		return "Fruta [nombre=" + nombre + ", color=" + color + ", sabor=" + sabor + ", puedoHacerJugo="

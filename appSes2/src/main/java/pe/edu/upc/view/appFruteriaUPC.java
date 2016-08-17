@@ -11,6 +11,7 @@ public class appFruteriaUPC {
 		System.out.println(objFruta.toString());
 		
 		Fruta.LugarOrigen="Otro lugar";
+		Fruta.LugarOrigen="Otro lugar2";
 		System.out.println(Fruta.LugarOrigen);
 
 	}
